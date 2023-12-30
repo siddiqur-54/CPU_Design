@@ -1,5 +1,5 @@
 ### Introduction
-This project focus on designing a CPU on NI Multisim circuit simulator software
+This project focus on designing a CPU
 ### Features
 - Word size of CPU = 5
 - Supported ALU operation s= NOT, ROR
@@ -10,3 +10,5 @@ This project focus on designing a CPU on NI Multisim circuit simulator software
 1. Register mode (NOT, ROR)
 2. Immediate Mode (NOT, ROR)
 3. Branching (JZ)
+### Platform
+NI Multisim circuit simulator software
